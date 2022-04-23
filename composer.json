@@ -1,5 +1,5 @@
 {
-    "name": "belivey/botman",
+    "name": "chfur/botman",
     "license": "MIT",
     "description": "Create messaging bots in PHP with ease.",
     "keywords": [
@@ -7,7 +7,7 @@
         "BotMan",
         "Chatbot"
     ],
-    "homepage": "http://github.com/belivey/botman",
+    "homepage": "http://github.com/chfur/botman",
     "authors": [
         {
             "name": "Marcel Pociot",
